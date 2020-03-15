@@ -13,7 +13,7 @@ Added new features of beam and column reinforcement as Google Summer of Code ([G
 ### User
 This project currently covers six different rebar shapes as given below:
 
-- ![icon](https://www.freecadweb.org/wiki/images/thumb/6/69/Arch_Rebar_Straight.png/32px-Arch_Rebar_Straight.png) **Straight Rebar**: [wiki](https://www.freecadweb.org/wiki/Arch_Rebar_Straight)
+- ![icon](icons/dropdown_list/StraightRebar.svg) **Straight Rebar**: [wiki](https://wiki.freecadweb.org/Arch_Rebar_Straight)
 ![screenshot](https://www.freecadweb.org/wiki/images/f/fd/StraightRebar.png)
 
 - ![icon](https://www.freecadweb.org/wiki/images/thumb/4/4d/Arch_Rebar_UShape.png/32px-Arch_Rebar_UShape.png) **UShape Rebar**: [wiki](https://www.freecadweb.org/wiki/Arch_Rebar_UShape)
